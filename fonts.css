@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Caramel';
-    src: url('https://peekaboorpg.github.io/Caramel-Regular.woff2') format('woff2'),
-        url('https://peekaboorpg.github.io/Caramel-Regular.woff') format('woff'),
-        url('https://peekaboorpg.github.io/Caramel-Regular.ttf') format('truetype'),
-        url('https://peekaboorpg.github.io/Caramel-Regular.otf') format('opentype');
-    font-weight: 400;
-    font-style: normal;
-}
