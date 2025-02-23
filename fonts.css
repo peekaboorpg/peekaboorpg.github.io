@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Caramel';
+    src: url('https://peekaboorpg.github.io/Caramel-Regular.eot');
+    src: url('https://peekaboorpg.github.io/Caramel-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://peekaboorpg.github.io/Caramel-Regular.woff2') format('woff2'),
+         url('https://peekaboorpg.github.io/Caramel-Regular.woff') format('woff'),
+         url('https://peekaboorpg.github.io/Caramel-Regular.ttf') format('truetype'),
+         url('https://peekaboorpg.github.io/Caramel-Regular.otf') format('opentype'),
+         url('https://peekaboorpg.github.io/Caramel-Regular.svg#Caramel-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lonely Ghost';
+    src: url('https://peekaboorpg.github.io/Lonely-Ghost.eot');
+    src: url('https://peekaboorpg.github.io/Lonely-Ghost.eot?#iefix') format('embedded-opentype'),
+         url('https://peekaboorpg.github.io/Lonely-Ghost.woff2') format('woff2'),
+         url('https://peekaboorpg.github.io/Lonely-Ghost.woff') format('woff'),
+         url('https://peekaboorpg.github.io/Lonely-Ghost.ttf') format('truetype'),
+         url('https://peekaboorpg.github.io/Lonely-Ghost.otf') format('opentype'),
+         url('https://peekaboorpg.github.io/Lonely-Ghost.svg#LonelyGhostBold') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
