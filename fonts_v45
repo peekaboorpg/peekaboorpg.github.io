@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Generica';
+    src: url('https://peekaboorpg.github.io/Generica-Bold.eot');
+    src: url('https://peekaboorpg.github.io/Generica-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://peekaboorpg.github.io/Generica-Bold.woff2') format('woff2'),
+         url('https://peekaboorpg.github.io/Generica-Bold.woff') format('woff'),
+         url('https://peekaboorpg.github.io/Generica-Bold.ttf') format('truetype'),
+         url('https://peekaboorpg.github.io/Generica-Bold.otf') format('opentype'),
+         url('https://peekaboorpg.github.io/Generica-Bold.svg#Caramel-Regular') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
