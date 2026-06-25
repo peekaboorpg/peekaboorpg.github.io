@@ -6,8 +6,21 @@
          url('https://peekaboorpg.github.io/Generica-Bold.woff') format('woff'),
          url('https://peekaboorpg.github.io/Generica-Bold.ttf') format('truetype'),
          url('https://peekaboorpg.github.io/Generica-Bold.otf') format('opentype'),
-         url('https://peekaboorpg.github.io/Generica-Bold.svg#Caramel-Regular') format('svg');
+         url('https://peekaboorpg.github.io/Generica-Bold.svg#Generica-Bold') format('svg');
     font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Jolly Lodger';
+    src: url('https://peekaboorpg.github.io/JollyLodger.eot');
+    src: url('https://peekaboorpg.github.io/JollyLodger.eot?#iefix') format('embedded-opentype'),
+         url('https://peekaboorpg.github.io/JollyLodger.woff2') format('woff2'),
+         url('https://peekaboorpg.github.io/JollyLodger.woff') format('woff'),
+         url('https://peekaboorpg.github.io/JollyLodger.ttf') format('truetype'),
+         url('https://peekaboorpg.github.io/JollyLodger.otf') format('opentype'),
+         url('https://peekaboorpg.github.io/JollyLodger.svg#JollyLodger') format('svg');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
